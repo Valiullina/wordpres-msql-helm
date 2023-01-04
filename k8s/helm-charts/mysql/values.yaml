@@ -1,0 +1,7 @@
+image: mysql
+tag: latest
+port: 3306
+vaultSecretPath: secret/company_passwords/wordpress
+roleName: wordpress-role 
+vaultUrl: https://vault.reginadevops.com
+serviceAccountName: wordpress
