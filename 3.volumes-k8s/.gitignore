@@ -1,0 +1,9 @@
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.terraform
+terraform.tfstate*
+
+backend.tf
+
+1.namespace_setup/backend.tf
+/1.namespace_setup/backend.tf
